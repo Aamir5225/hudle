@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Montserrat";
+}
+body{
+    background-color: rgb(119, 51, 182);
+}
+img{
+    margin-left:100px;
+    margin-top:-89px;
+    position: fixed;
+}
+.mockup{
+    margin-top: 55px;
+    margin-left:105px;
+    position: fixed;
+
+}
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 145px;
+    padding-top: 50px;
+
+}
+
+.box{
+    width: 550px;
+    color: white;
+    margin-left: 800px;
+    margin-top:55px;
+    line-height:1.8;
+}
+
+p{
+ font-size:1.2em;
+ line-height: 1.5;
+ margin-left:145px;
+ padding-top: 2%;   
+}
+
+button{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 943px;
+    border-radius: 30px;
+    border: none;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:1em;
+    margin-top: 10px;
+    box-shadow: 1px 0px 15px 0px black;
+}
+
+.sd{
+    margin-left: 1200px;
+    margin-top: 140px;
+    
+}
